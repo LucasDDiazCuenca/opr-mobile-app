@@ -30,4 +30,4 @@ Here is the direct link to the app:
 
 For better enjoyment of the app, use mobile first frame or throughout a Mobil device:
 
--   [https://oprimaellike.netlify.app/](https://oprimaellike.netlify.app/){:target="\_blank"}
+-   [https://oprimaellike.netlify.app/](https://oprimaellike.netlify.app/){:target="blank"}
